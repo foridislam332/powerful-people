@@ -1,10 +1,10 @@
 # The World's Most Powerful People
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live website : https://powerful-people-by-forid.netlify.app/
 
 ## Available Scripts
 
-In the project directory, you can run:
+<li>The World's Powerfull People list</li>
 
 ### `npm start`
 
