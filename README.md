@@ -5,6 +5,8 @@ Live website : https://powerful-people-by-forid.netlify.app/
 ## Available Scripts
 
 <li>The World's Powerfull People list</li>
+<li>Most Powerfull People in the world</li>
+<li>Most Popular People in the world</li>
 
 ### `npm start`
 
