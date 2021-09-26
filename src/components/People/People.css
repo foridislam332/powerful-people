@@ -1,0 +1,45 @@
+.people_box {
+    background-color: white;
+    padding: 30px 20px;
+    border-radius: 10px;
+    border: 1px solid rgb(248, 54, 54);
+}
+
+.people_box .image {
+    width: 50%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.people_box img {
+    width: 100%;
+    border-radius: 50%;
+}
+
+.people_box h2 {
+    color: black;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.people_box h3 {
+    font-size: 17px;
+    text-transform: uppercase;
+}
+
+.people_box span {
+    text-transform: capitalize;
+    font-weight: 400;
+}
+
+.cart_btn {
+    border: none;
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+    padding: 10px 15px;
+    display: block;
+    background: crimson;
+    color: #ffffff;
+    border-radius: 5px;
+}

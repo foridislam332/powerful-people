@@ -1,0 +1,182 @@
+[
+    {
+        "key": "WPP2018#01XJ",
+        "name": "Xi Jinping",
+        "salary": 111000,
+        "age": 68,
+        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5aecccdf31358e612fb80afa%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D1234%26cropX2%3D3554%26cropY1%3D348%26cropY2%3D2667",
+        "citizenship": "China",
+        "role": "General Secretary"
+    },
+    {
+        "key": "WPP2018#02VP",
+        "name": "Vladimir Putin",
+        "salary": 121000,
+        "age": 68,
+        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5aecc9a84bbe6f748688434d%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D271%26cropX2%3D1742%26cropY1%3D321%26cropY2%3D1791",
+        "citizenship": "Russia",
+        "role": "President"
+    },
+    {
+        "key": "WPP2018#03DT",
+        "name": "Donald Trump",
+        "salary": 221000,
+        "age": 75,
+        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5638e53de4b0ffa7afe6a26a%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D27%26cropX2%3D731%26cropY1%3D32%26cropY2%3D736",
+        "citizenship": "United States",
+        "role": "President"
+    },
+    {
+        "key": "WPP2018#04AM",
+        "name": "Angela Merkel",
+        "salary": 121000,
+        "age": 67,
+        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fce8861a3f1e6e4929e0577%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D463%26cropX2%3D3998%26cropY1%3D964%26cropY2%3D4500",
+        "citizenship": "Germany",
+        "role": "Chancellor"
+    },
+    {
+        "key": "WPP2018#05JB",
+        "name": "Jeff Bezos",
+        "salary": 821000,
+        "age": 57,
+        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5bb22ae84bbe6f67d2e82e05%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D627%26cropX2%3D1639%26cropY1%3D129%26cropY2%3D1142",
+        "citizenship": "United States",
+        "role": "Founder, Amazon"
+    },
+    {
+        "key": "WPP2018#06DW",
+        "name": "Darren Woods",
+        "salary": 221000,
+        "age": 56,
+        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5aecbe0aa7ea436b547c4ad3%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D197%26cropX2%3D1766%26cropY1%3D223%26cropY2%3D1792",
+        "citizenship": "Vatican City State",
+        "role": "CEO, ExxonMobil"
+    },
+    {
+        "key": "WPP2018#07BG",
+        "name": "Bill Gates",
+        "salary": 4429000,
+        "age": 65,
+        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4ebe0c87612dab4f12a597%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D292%26cropX2%3D3684%26cropY1%3D592%26cropY2%3D3987",
+        "citizenship": "United States",
+        "role": "Cofounder"
+    },
+    {
+        "key": "WPP2018#08MS",
+        "name": "Salman Al Saud",
+        "salary": 121000,
+        "age": 36,
+        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5aeca7bfa7ea436b547c476b%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D782%26cropX2%3D4433%26cropY1%3D0%26cropY2%3D3648",
+        "citizenship": "Saudi Arabia",
+        "role": "Crown Prince"
+    },
+    {
+        "key": "WPP2018#09SB",
+        "name": "Sergey Brin",
+        "salary": 351000,
+        "age": 48,
+        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5c7d7c254bbe6f78090d831f%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D475%26cropX2%3D2887%26cropY1%3D168%26cropY2%3D2582",
+        "citizenship": "United States",
+        "role": "Cofounder, Alphabet"
+    },
+    {
+        "key": "WPP2018#10LP",
+        "name": "Larry Page",
+        "salary": 121000,
+        "age": 48,
+        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5c76bcaaa7ea43100043c836%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D227%26cropX2%3D2022%26cropY1%3D22%26cropY2%3D1817",
+        "citizenship": "United States",
+        "role": "Cofounder"
+    },
+    {
+        "key": "WPP2018#11JP",
+        "name": "Jerome H. Powell",
+        "salary": 521000,
+        "age": 68,
+        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5aeca99ca7ea436b547c4828%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D1034%26cropX2%3D3651%26cropY1%3D51%26cropY2%3D2667",
+        "citizenship": "United States",
+        "role": "Federal Reserve"
+    },
+    {
+        "key": "WPP2018#12EM",
+        "name": "Emmanuel Macron",
+        "salary": 5822000,
+        "age": 43,
+        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5aecab0231358e612fb80603%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D751%26cropX2%3D3039%26cropY1%3D721%26cropY2%3D3010",
+        "citizenship": "France",
+        "role": "President"
+    },
+    {
+        "key": "WPP2018#13MZ",
+        "name": "Mark Zuckerberg",
+        "salary": 35822000,
+        "age": 37,
+        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5c76b7d331358e35dd2773a9%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D0%26cropX2%3D4401%26cropY1%3D0%26cropY2%3D4401",
+        "citizenship": "United States",
+        "role": "CEO, Facebook"
+    },
+    {
+        "key": "WPP2018#14TM",
+        "name": "Theresa May",
+        "salary": 5822000,
+        "age": 64,
+        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F59f5d442a7ea436b47b47db4%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D498%26cropX2%3D1916%26cropY1%3D74%26cropY2%3D1493",
+        "citizenship": "United Kingdom",
+        "role": "Prime Minister"
+    },
+    {
+        "key": "WPP2018#15SN",
+        "name": "Satya Nadella",
+        "salary": 9132000,
+        "age": 54,
+        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5d6ae14f673aa300083caf99%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D3051%26cropX2%3D5974%26cropY1%3D26%26cropY2%3D2952",
+        "citizenship": "United States",
+        "role": "CEO, Microsoft"
+    },
+    {
+        "key": "WPP2018#16JD",
+        "name": "Jamie Dimon",
+        "salary": 912000,
+        "age": 65,
+        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5a8d91b5a7ea43169014023a%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D743%26cropX2%3D3217%26cropY1%3D194%26cropY2%3D2667",
+        "citizenship": "United States",
+        "role": "CEO, JPMorgan Chase"
+    },
+    {
+        "key": "WPP2018#17JM",
+        "name": "Jack Ma",
+        "salary": 7322000,
+        "age": 57,
+        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605e22fe6df966b3fcbd3e15%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D0%26cropX2%3D1080%26cropY1%3D0%26cropY2%3D1080",
+        "citizenship": "China",
+        "role": "Founder, Alibaba Group"
+    },
+    {
+        "key": "WPP2018#18CL",
+        "name": "Christine Lagarde",
+        "salary": 30822000,
+        "age": 65,
+        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fce8ba6f7812d403e9e057b%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D1766%26cropX2%3D3643%26cropY1%3D514%26cropY2%3D2390",
+        "citizenship": "France",
+        "role": "President"
+    },
+    {
+        "key": "WPP2018#19EM",
+        "name": "Elon Musk",
+        "salary": 44022000,
+        "age": 50,
+        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f47d4de7637290765bce495%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D1699%26cropX2%3D3845%26cropY1%3D559%26cropY2%3D2704",
+        "citizenship": "United States",
+        "role": "CEO, Tesla"
+    },
+    {
+        "key": "WPP2018#20MH",
+        "name": "Ma Huateng",
+        "salary": 10822000,
+        "age": 49,
+        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605e23c0f0986f688fbd3e15%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D0%26cropX2%3D1080%26cropY1%3D0%26cropY2%3D1080",
+        "citizenship": "China",
+        "role": "Chairman and CEO"
+    }
+]

@@ -1,0 +1,13 @@
+.header_container {
+    text-align: center;
+    background-color: rgba(0, 0, 0, .5);
+    padding: 15px 0;
+    margin-bottom: 30px;
+    border-radius: 0 0 20px 20px;
+}
+
+.header_container h1,
+h2,
+p {
+    color: #ffffff;
+}

@@ -1,0 +1,15 @@
+.cart_box {
+    background: white;
+    border: 1px solid rgb(248, 54, 54);
+    margin-top: 47px;
+    text-align: center;
+    padding-top: 25px;
+}
+
+.cart_box p {
+    color: black;
+}
+
+.cart_details {
+    margin-bottom: 30px;
+}

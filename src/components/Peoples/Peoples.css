@@ -1,0 +1,9 @@
+.peoples_container {
+    margin-left: 0;
+    margin-right: 0;
+    display: flex;
+}
+
+.cart_box h2 {
+    color: black;
+}
